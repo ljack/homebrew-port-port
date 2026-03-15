@@ -1,9 +1,9 @@
 class PortPort < Formula
   desc "CLI tools for monitoring and managing listening ports on macOS"
   homepage "https://github.com/ljack/port-port"
-  url "https://github.com/ljack/port-port/releases/download/v1.3.3/port-port-v1.3.3-macos.tar.gz"
-  sha256 "624ad27e86426d82c22aadef27bba876c84012e6483dd813eef58a4b9aebb307"
-  version "1.3.3"
+  url "https://github.com/ljack/port-port/releases/download/v1.4.0/port-port-v1.4.0-macos.tar.gz"
+  sha256 "7a0a58dbe20957aaec1a946d9b1127d7831de8663b0b68150611a27222849baf"
+  version "1.4.0"
   license "MIT"
 
   depends_on :macos
