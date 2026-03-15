@@ -1,8 +1,8 @@
 cask "port-port-app" do
-  version "1.2.2"
-  sha256 "0f41f08bae47c576c5a9c49f77530bc051713ac447dfbe70e1d84c2d5e453c8b"
+  version "1.2.3"
+  sha256 "deb818aae293af355cb3e7a50c3ea04704292973786e8b61a403ba06879d8e88"
 
-  url "https://github.com/ljack/port-port/releases/download/v1.2.2/Port-Port-v1.2.2.zip"
+  url "https://github.com/ljack/port-port/releases/download/v1.2.3/Port-Port-v1.2.3.zip"
   name "PortPort"
   desc "Menu bar app for monitoring listening ports on macOS"
   homepage "https://github.com/ljack/port-port"
