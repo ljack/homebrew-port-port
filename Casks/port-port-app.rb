@@ -7,7 +7,7 @@ cask "port-port-app" do
   desc "Menu bar app for monitoring listening ports on macOS"
   homepage "https://github.com/ljack/port-port"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "PortPort.app"
 
